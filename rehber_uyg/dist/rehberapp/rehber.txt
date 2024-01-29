@@ -1,0 +1,3 @@
+{'ad': 'suna', 'soyad': 'gökten', 'numara': '5437757233'}
+{'ad': '4', 'soyad': '3', 'numara': '3'}
+{'ad': 'ertuðrul', 'soyad': 'gökten', 'numara': '6342433434'}
