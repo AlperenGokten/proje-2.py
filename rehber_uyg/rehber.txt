@@ -1,1 +1,1 @@
-{'ad': 'alperen', 'soyad': 'gokten', 'numara': '5438857422'}
+{'adi': 'Alperen', 'num': '53453454435'},{'adi': 'ertuðrul', 'num': 'gökten'},{'adi': 'suna', 'num': '548964674'},
