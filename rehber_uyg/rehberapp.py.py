@@ -1,7 +1,7 @@
 import re, json, ast
 
 def menu():
-    #print("╔"+"═"*20+"╗")
+  
     print("╔═════════════════════╗")
     print("║  REHBER UYGULAMASI  ║")
     print("║                     ║")
@@ -13,7 +13,7 @@ def menu():
     print("║  6-çıkıi            ║")
     print("║  Seçimiz nedir?     ║")
     print("╚═════════════════════╝")
-    # 201 ╔ 187 ╗ 200 ╚  # 188 ╝
+
 
     secim = input("")
     if secim=="1":
