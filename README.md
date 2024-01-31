@@ -5,3 +5,4 @@
  rehber uygulaması rehberinize istediğiniz kişileri ekleyebilir,silebilir,düzenleyebilirsiniz kolaylık sağlanması açısından rehber uygulamamızda arama yani ilk iki harfi girerek istediğiniz kişiyi kolayca bulabilirsiniz
 
 <img src="resimler\liste.png" alt="Örnek liste.png"/>
+rehbur uygulamamda kişileri listeleme ve görünümü (verilen numaralar gerçek değildir)
