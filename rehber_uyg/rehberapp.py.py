@@ -5,12 +5,12 @@ def menu():
     print("╔═════════════════════╗")
     print("║  REHBER UYGULAMASI  ║")
     print("║                     ║")
-    print("║  1-Kişi ekle        ║")
-    print("║  2-Listele          ║")
-    print("║  3-Ara              ║")
-    print("║  4-Düzelt           ║")
-    print("║  5-Sil              ║")
-    print("║                     ║")
+    print("║  1-Rehber ekle      ║")
+    print("║  2-kayıtları listele║")
+    print("║  3-kayıt ara        ║")
+    print("║  4-kayıt düzelt     ║")
+    print("║  5-numara sil       ║")
+    print("║  6-çıkıi            ║")
     print("║  Seçimiz nedir?     ║")
     print("╚═════════════════════╝")
     # 201 ╔ 187 ╗ 200 ╚  # 188 ╝
@@ -41,7 +41,6 @@ def kisiEkle():
     print("╠════════════╣ KİŞİ EKLEME ╠════════════╣")
     ad = input("Kaydedilecek ad ve soyad :")
     nu = input("Kaydedilecek numara      :")
-    # veri = {"adi":ad,"num":nu}
     dosya.write(f'{str({"adi":ad,"num":nu})},')
     dosya.close()
 
